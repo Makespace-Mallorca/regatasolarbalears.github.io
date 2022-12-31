@@ -1,0 +1,204 @@
+menu:
+  en: Menu
+  es: Menú
+
+intro-phrase:
+  en: Collaborative training of the Internet of Things
+  es: Aprendizaje colaborativo del Internet de las Cosas
+
+manifesto:
+  en: The world is becoming increasingly connected. This allows the development of new products designed by engineers and offers opportunities for entrepreneurs to create unprecedented services.  Yet, the huge connectivity rules the world in a new paradigm with new questions and challenges.
+  es: El mundo está cada vez más conectado.  Esto permite el desarrollo de nuevos productos diseñados por ingenieros y ofrece oportunidades para que los empresarios creen servicios sin precedentes.  Sin embargo, la enorme conectividad gobierna el mundo en un nuevo paradigma que nos lleva a nuevas preguntas y desafíos.
+
+connecting:
+  en: Connecting as sole purpose, does not work
+  es: El conectar por conectar no funciona
+
+connecting-desc:
+  en: Adding connectivity to an object is neither a necessary nor a sufficient condition for a successful product. Monetising only through connectivity rarely guarantees sustainable commercial success
+  es: Añadir conectividad a un objeto no es condición necesaria ni suficiente para convertirlo en un producto de éxito.  Monetizar solo a través de la conectividad rara vez garantiza un éxito comercial sostenible
+
+security:
+  en: Securirty, security and security
+  es: Seguridad, seguridad y seguridad
+
+security-desc:
+  en: With connectivity comes the potential for external security threats through the devices themselves. Some new communication technologies are born with security deficiencies.  It is mandatory to make a safe design at the beginning
+  es: Con la conectividad viene el potencial de amenazas de seguridad externas a través de los propios dispositivos.  Algunas nuevas tecnologías nacen con carencias de seguridad.  Es obligatorio hacer un diseño seguro desde principio
+
+monitoring:
+  en: Monitor assets before people
+  es: Monitorizar activos antes que personas
+
+monitoring-desc:
+  en: The information of the asset is the data that serves the utility of the product and service. Therefore, identifying what those data points are must be conscientious and deliberate. If is required to gather personal  information by the product ir must be handled carefully
+  es: La información del activo son los datos que sirven a la utilidad del producto y servicio. Por lo tanto, identificar cuáles son esos puntos de datos debe ser una tarea concienzuda. Si se requiere que el producto recopile información personal, debe manipularse con cuidado
+
+interoperability:
+  en: Interoperability, the power of IoT
+  es: Interoperabilidad, el poder de IoT
+
+interoperability-desc:
+  en: IoT interoperability has complicated IoT adoption, but designers must adopt the selection of competing standards in other to an effective data interconnection
+  es: La interoperabilidad de IoT ha complicado la adopción de IoT, pero los diseñadores deben adoptar la selección de estándares competitivos para lograr una interconexión de datos efectiva
+
+free-software:
+  en: Free Software
+  es: Software Libre
+
+free-software-desc:
+  en: You can use, study, distribute and improve our code, always released under GPL
+  es: Puedes usar, estudiar, distribuir y mejorar nuestro código, liberado siempre mediante GPL
+
+open-hardware:
+  en: Open Hardware
+  es: Hardware libre
+
+open-hardware-desc:
+  en: Our boards and hardware description modules are Open and created with Open Tools
+  es: Nuestras placas y módulos de hardware son Libres y están creados con Herramientas Libres
+
+technological-heritage:
+  en: Technological Heritage
+  es: Patrimonio Tecnológico
+
+technological-heritage-desc:
+  en: All our work belongs to everybody and is part of the Technological Heritage
+  es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
+
+
+projects:
+  en: Projects
+  es: Proyectos
+
+projects-desc:
+  en: Index of projects developed for Internet Of Things 
+  es: Indice de proyectos desarrollados para el Internet de las Cosas
+
+ttnmallorca:
+  en: TTN Community of Mallorca
+  es: Comunidad TTN de Mallorca
+
+ttnmallorca-desc:
+  en: Open community to provide all of Mallorca land with Internet of Things data LoRaWAN connectivity through network crowdsourcing by its citizens and local companies.
+  es: Comunidad abierta para proporcionar a todo el territorio de Mallorca conectividad LoRaWAN de datos para Internet de las Cosas a través de la colaboració por parte de sus ciudadanos y empresas locales.
+
+fumport:
+  en: Fum al Port
+  es: Fum al Port
+
+fumport-desc:
+  en: Application for gathering, analyzing and warnings of environmental contamination in port environments
+  es: Aplicación de captura, análisis y alerta de contaminación ambiental en entornos portuarios
+
+canamunt:
+  en: Canamunt IoT neighborhood
+  es: El barrio IoT de Canamunt
+
+canamunt-desc:
+  en: First neighborhood with a free and self-managed IoT environmental network
+  es: Primer barrio con una red IoT medioambiental libre y autogestionada
+
+
+tutorials:
+  en: Tutorials
+  es: Tutoriales
+
+tutorials-desc:
+  en: Learn about IoT open technologies 
+  es: Aprende sobre tecnologias IoT libres
+
+sensor-aqi:
+  en: Air quality sensor conected tutorial 
+  es: Tutorial para la construcción de sensores de calidad de aire conectado
+
+
+workshops:
+  en: Workshops
+  es: Talleres
+
+workshops-desc:
+  en: Documentation of the workshops we have done
+  es: Documentación de los talleres que hemos realizado
+
+radiation:
+  en: Radiation sensor conected
+  es: Medidor de radiactividad ambiental conectado
+
+radiation-desc:
+  en: IoT workshop to build a connected Geiger meter. Based on the ESP8266, MQTT, Node-RED and integrated in the GMC network
+  es: Taller IoT para construir un medidor Geiger conectado. Basado en el ESP8266, MQTT, Node-RED e integrado en la red GMC
+
+lorawan4dummies:
+  en: IoT and LoraWAN with BBC micro-bit for beginners
+  es: IoT y LoraWAN con BBC micro-bit para principiantes
+
+lorawan4dummies-desc:
+  en: Internet of Things workshop with LoRa for beginners
+  es: Taller de Internet de las Cosas con LoRa para principiantes
+
+keniasat:
+  en: Workshop for setup a satellite ground station
+  es: Taller para la configuración de una estación de recepción de satélites
+
+keniasat-desc:
+  en: Workshop guide for installation and monitoring of a TinyGS for SPACK
+  es: Taller para la instalación y monitorización de un TinyGS para SPACK
+
+next-workshop:
+  en: Next workshops...
+  es: Siguientes talleres...
+
+next-workshop-desc:
+  en: Propose a new workshop!
+  es: ¡Propón un nuevo taller!
+
+
+talks:
+  en: Talks
+  es: Charlas
+
+talks-desc:
+  en: Find all the information about our talks
+  es: Encuentra toda la información de nuestras charlas
+
+starlink:
+  en: First Starlink connection
+  es: First Starlink connection in the Balearic Islands
+
+starlink-desc:
+  en: Interview on IB3 radio about the Starlink satellite internet network
+  es: Entrevista en IB3 radio sobre la red de internet satelital de Starlink
+
+next-talk:
+  en: Next talk...
+  es: Siguiente charla...
+
+next-talk-desc:
+  en: Propose a new talk!
+  es: ¡Propón una nueva charla!
+
+
+team:
+  en: Team & Collaborators
+  es: Equipo y colaboraciones
+
+team-desc:
+  en: Meet the team members and collaborators
+  es: Conoce a los miembros del equipo y a nuestros colaboradores
+
+member-position:
+  en: ICT R&D Specialist
+  es: Técnico ICT R&D
+
+contribute:
+  en: Contribute
+  es: Contribuye
+
+contribute-desc:
+  en: Send your doubts, solutions, suggestions, collaborate on projects, ...
+  es: Envía tus dudas, soluciones, sugerencias, colabora en los proyectos, ...
+
+meetup-group:
+  en: Meetup Group
+  es: Grupo de Meetup
