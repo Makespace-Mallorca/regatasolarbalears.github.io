@@ -1,5 +1,5 @@
 /*
- * IoT Foundations (c) 2016-2022
+ * Makers de Mallorca (c) 2022-2030
  * License: GPL-2.0
  * Credits: Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
  */
