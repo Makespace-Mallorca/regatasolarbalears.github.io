@@ -2,14 +2,14 @@ url: http://regatasolarbalears.github.io
 baseurl:
 
 # Site settings
-title: IoT Foundations
+title: Regata Solar Baleares
 email: makespace.mallorca@gmail.com
 description: Competición de embarcaciones no tripuladas impulsadas por energía solar.
 
 # Team names, titles and social links
 people:
 
-  - name: makespace Mallorca
+  - name: Makespace Mallorca
     social:
       - title: twitter
         url: https://twitter.com/MakespacePMI
@@ -36,7 +36,7 @@ collections:
 
 # Menu
 menu:
-  - projects
+  - donde_cuando
   - tutorials
   - workshops
   - talks
