@@ -30,7 +30,7 @@ $('.navbar-collapse ul li a').click(function() {
 // Language management
 
 var lang = '';
-var languages = ['en', 'es'];
+var languages = ['ca', 'es'];
 var preferredLanguages = navigator.languages || [navigator.language];
 var detectedLang = 'es';// Default if none of the user’s languages is available.
 preferredLanguages.some(function (lang) {
@@ -46,8 +46,8 @@ preferredLanguages.some(function (lang) {
 // Set detected language
 loadLanguage(detectedLang);
 
-$('#lang-en').click(function(/*event*/) {
-  loadLanguage('en', true);
+$('#lang-ca').click(function(/*event*/) {
+  loadLanguage('ca', true);
 });
 
 $('#lang-es').click(function(/*event*/) {
