@@ -74,7 +74,7 @@ h6 {
 }
 
 .navbar-default .navbar-brand {
-    color: #{{ site.data.template.color.white }};
+    color: #{{ site.data.template.color.blue }};
     font-family: {{ site.data.template.font.secondary }};
 }
 
