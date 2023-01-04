@@ -27,8 +27,8 @@ para_quien-desc:
   es: La competición está abierta principalmente a dos grupos de escolares y aficionados. En ambos casos pueden inscribrise como equipo o como persona individual. 
 
 objetivos:
-  ca: Monitor assets before people
-  es: Monitorizar activos antes que personas
+  ca: Objectius
+  es: Objetivos
 
 objetivos-desc:
   ca: És una activitat alineada amb els Objectius de Desenvolupament Sostenible de l'agenda 2030 de l'ONU i amb l'educació orientada STEM (Science Technology Engineering and Mathematics) tan necessària actualment per garantir el futur dels nostres estudiants i totes aquelles persones que es vulguin reciclar en aquestes matèries, posant també el focus a aconseguir equips paritaris.
@@ -36,36 +36,28 @@ objetivos-desc:
 
 
 donde_cuando:
-  ca: On i quan
-  es: Dónde y cuándo
+  ca: On i quan?
+  es: ¿Dónde y cuándo?
 
 donde_cuando-desc:
-  ca: Index of projects developed for Internet Of Things 
-  es: Indice de proyectos desarrollados para el Internet de las Cosas
+  ca: Hem cercat la millor localització de Mallorca i la millor època de l'any
+  es: Hemos buscado la mejor localización de Mallorca y la mejor época del año
 
-ttnmallorca:
-  ca: TTN Community of Mallorca
-  es: Comunidad TTN de Mallorca
+donde:
+  ca: Parc de la Mar
+  es: Parc de la Mar
 
-ttnmallorca-desc:
-  ca: Open community to provide all of Mallorca land with Internet of Things data LoRaWAN connectivity through network crowdsourcing by its citizens and local companies.
-  es: Comunidad abierta para proporcionar a todo el territorio de Mallorca conectividad LoRaWAN de datos para Internet de las Cosas a través de la colaboració por parte de sus ciudadanos y empresas locales.
+donde-desc:
+  ca: La competició se celebrarà a l'incomparable marc del Parc de la Mar. L'emblemàtic llac d'aigua salada davant de la catedràl de Palma.
+  es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
-fumport:
-  ca: Fum al Port
-  es: Fum al Port
+cuando:
+  ca: 20 de juny de 2023
+  es: 20 de junio de 2023
 
-fumport-desc:
-  ca: Application for gathering, analyzing and warnings of environmental contamination in port environments
-  es: Aplicación de captura, análisis y alerta de contaminación ambiental en entornos portuarios
-
-canamunt:
-  ca: Canamunt IoT neighborhood
-  es: El barrio IoT de Canamunt
-
-canamunt-desc:
-  ca: First neighborhood with a free and self-managed IoT environmental network
-  es: Primer barrio con una red IoT medioambiental libre y autogestionada
+cuando-desc:
+  ca: La competició engloba un esdeveniment de dos dies que comença la vesprada del divendres dia 19 de maig amb xerrades i col·loquis de la mà de l'associació Maker de Mallorca acabant amb un sopar per conèixer-nos. El dia 20 se centrarà en la regata amb els preparatius des de les 10 del matí.
+  es: La competición engloba un evento de dos días que empieza la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la asociación Maker de Mallorca acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana.
 
 
 talleres_tutoriales:
