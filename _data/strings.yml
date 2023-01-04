@@ -68,32 +68,28 @@ presentacion-desc:
   es: El sábado 28 de enero a las 11 de la mañana esperamos a todos los interesados y curiosos en el Museu Maritim de Palma. Os contaremos en qué van a consistir las jornadas y serán bienvenidas tus sugerencias o recomendaciones.
 
 
-talleres_tutoriales:
+participacion:
   ca: Tutorials
   es: Tutoriales
 
-talleres_tutoriales-desc:
+participacion-desc:
   ca: Learn about IoT open technologies 
   es: Aprende sobre tecnologias IoT libres
 
-sensor-aqi:
+bases:
   ca: Air quality sensor conected tutorial 
   es: Tutorial para la construcción de sensores de calidad de aire conectado
 
-
-participacion:
-  ca: Workshops
-  es: Talleres
-
-participacion-desc:
-  ca: Documentation of the workshops we have done
-  es: Documentación de los talleres que hemos realizado
-
-radiation:
+inscripcion:
   ca: Radiation sensor conected
   es: Medidor de radiactividad ambiental conectado
 
-radiation-desc:
+
+talleres_tutoriales:
+  ca: 
+  es: 
+
+talleres_tutoriales-desc:
   ca: IoT workshop to build a connected Geiger meter. Based on the ESP8266, MQTT, Node-RED and integrated in the GMC network
   es: Taller IoT para construir un medidor Geiger conectado. Basado en el ESP8266, MQTT, Node-RED e integrado en la red GMC
 
@@ -101,25 +97,6 @@ lorawan4dummies:
   ca: IoT and LoraWAN with BBC micro-bit for beginners
   es: IoT y LoraWAN con BBC micro-bit para principiantes
 
-lorawan4dummies-desc:
-  ca: Internet of Things workshop with LoRa for beginners
-  es: Taller de Internet de las Cosas con LoRa para principiantes
-
-keniasat:
-  ca: Workshop for setup a satellite ground station
-  es: Taller para la configuración de una estación de recepción de satélites
-
-keniasat-desc:
-  ca: Workshop guide for installation and monitoring of a TinyGS for SPACK
-  es: Taller para la instalación y monitorización de un TinyGS para SPACK
-
-next-workshop:
-  ca: Next workshops...
-  es: Siguientes talleres...
-
-next-workshop-desc:
-  ca: Propose a new workshop!
-  es: ¡Propón un nuevo taller!
 
 
 patrocinadores:
