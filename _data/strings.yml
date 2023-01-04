@@ -23,8 +23,8 @@ para_quien:
   es: ¿Quién puede participar?
 
 para_quien-desc:
-  ca: La competició és oberta principalment a dos grups de escolars i aficionats. En ambdós casos poden inscriure's com a equip o com a persona individual.
-  es: La competición está abierta principalmente a dos grupos de escolares y aficionados. En ambos casos pueden inscribrise como equipo o como persona individual. 
+  ca: La competició és oberta principalment a grups de escolars i aficionats. En ambdós casos poden inscriure's com a equip o com a persona individual.
+  es: La competición está abierta principalmente a grupos de escolares y aficionados. En ambos casos pueden inscribrise como equipo o como persona individual. 
 
 objetivos:
   ca: Objectius
@@ -44,20 +44,28 @@ donde_cuando-desc:
   es: Hemos buscado la mejor localización de Mallorca y la mejor época del año
 
 donde:
-  ca: Parc de la Mar
-  es: Parc de la Mar
+  ca: on? Parc de la Mar
+  es: ¿Dónde? Parc de la Mar
 
 donde-desc:
   ca: La competició se celebrarà a l'incomparable marc del Parc de la Mar. L'emblemàtic llac d'aigua salada davant de la catedràl de Palma.
   es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
 cuando:
-  ca: 20 de juny de 2023
-  es: 20 de junio de 2023
+  ca: Quan? 20 de juny de 2023
+  es: ¿Cuándo? 20 de junio de 2023
 
 cuando-desc:
   ca: La competició engloba un esdeveniment de dos dies que comença la vesprada del divendres dia 19 de maig amb xerrades i col·loquis de la mà de l'associació Maker de Mallorca acabant amb un sopar per conèixer-nos. El dia 20 se centrarà en la regata amb els preparatius des de les 10 del matí.
   es: La competición engloba un evento de dos días que empieza la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la asociación Maker de Mallorca acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana.
+
+presentacion:
+  ca: Presentació
+  es: Presentación
+
+presentacion-desc:
+  ca: El dissabte 28 de gener a les 11 del matí esperem tots els interessats i curiosos al Museu Maritim de Palma. Us explicarem en què consistiran les jornades i seran benvinguts els vostres suggeriments o recomanacions.
+  es: El sábado 28 de enero a las 11 de la mañana esperamos a todos los interesados y curiosos en el Museu Maritim de Palma. Os contaremos en qué van a consistir las jornadas y serán bienvenidas tus sugerencias o recomendaciones.
 
 
 talleres_tutoriales:
