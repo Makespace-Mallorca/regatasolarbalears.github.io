@@ -102,30 +102,29 @@ talleres:
   es: IoT y LoraWAN con BBC micro-bit para principiantes
 
 
-
 patrocinadores:
-  ca: Talks
-  es: Charlas
+  ca: Patrocinadors
+  es: Patrocinadores
 
 patrocinadores-desc:
-  ca: Find all the information about our talks
-  es: Encuentra toda la información de nuestras charlas
+  ca: Empreses i organismes que han col·laborat amb l'organització i el finançament
+  es: Empresas y organismos que han colaborado con la organización y financiación
 
-starlink:
-  ca: First Starlink connection
-  es: First Starlink connection in the Balearic Islands
+museu:
+  ca: Museu Marítim de Mallorca ens ha cedit amablement els seus espais tant per a la realització de les xerrades com per a la recollida i custòdia del material dels participants.
+  es: Museu Marítim de Mallorca nos ha cedido amablemente sus espacios tanto para la realiazación de las charlas como para la recogida y custodia del material de los participantes. 
 
-starlink-desc:
+museu-desc:
   ca: Interview on IB3 radio about the Starlink satellite internet network
   es: Entrevista en IB3 radio sobre la red de internet satelital de Starlink
 
-next-talk:
-  ca: Next talk...
-  es: Siguiente charla...
+tbd:
+  ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda.
+  es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida.
 
-next-talk-desc:
-  ca: Propose a new talk!
-  es: ¡Propón una nueva charla!
+tbd-desc:
+  ca: Si voleu col·laborar fent una xerrada, patrocinant un premi o finançant l'esdeveniment. Podeu posar-vos en contacte amb nosaltres a través del makespace.mallorca@gmail.com
+  es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del makespace.mallorca@gmail.com
 
 
 organizadores:

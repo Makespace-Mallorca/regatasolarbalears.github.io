@@ -21,10 +21,6 @@ people:
       - title: twitter
         url: https://twitter.com/FablabMallorca
 
-  - name: Museu Marítim de Mallorca
-    social:
-      - title: twitter
-        url: https://twitter.com/MaritimMallorca
 
 # Build settings
 markdown: kramdown
