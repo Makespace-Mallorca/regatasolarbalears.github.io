@@ -69,8 +69,8 @@ presentacion-desc:
 
 
 participacion:
-  ca: Tutorials
-  es: Tutoriales
+  ca: Participació
+  es: Participación
 
 participacion-desc:
   ca: Learn about IoT open technologies 
@@ -111,12 +111,12 @@ patrocinadores-desc:
   es: Empresas y organismos que han colaborado con la organización y financiación
 
 museu:
-  ca: Museu Marítim de Mallorca ens ha cedit amablement els seus espais tant per a la realització de les xerrades com per a la recollida i custòdia del material dels participants.
-  es: Museu Marítim de Mallorca nos ha cedido amablemente sus espacios tanto para la realiazación de las charlas como para la recogida y custodia del material de los participantes. 
+  ca: Museu Marítim de Mallorca 
+  es: Museu Marítim de Mallorca
 
 museu-desc:
-  ca: Interview on IB3 radio about the Starlink satellite internet network
-  es: Entrevista en IB3 radio sobre la red de internet satelital de Starlink
+  ca: Museu Marítim de Mallorca ens ha cedit amablement els seus espais tant per a la realització de les xerrades com per a la recollida i custòdia del material dels participants.
+  es: Museu Marítim de Mallorca nos ha cedido amablemente sus espacios tanto para la realiazación de las charlas como para la recogida y custodia del material de los participantes. 
 
 tbd:
   ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda.
