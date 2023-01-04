@@ -77,23 +77,27 @@ participacion-desc:
   es: Aprende sobre tecnologias IoT libres
 
 bases:
-  ca: Air quality sensor conected tutorial 
-  es: Tutorial para la construcción de sensores de calidad de aire conectado
+  ca: Bases de la competició
+  es: Bases de la competición
 
 inscripcion:
-  ca: Radiation sensor conected
-  es: Medidor de radiactividad ambiental conectado
+  ca: Termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig.
+  es: ¡Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo.
 
 
 talleres_tutoriales:
-  ca: 
-  es: 
+  ca: Tallers i tutorials
+  es: Talleres y tutoriales
 
 talleres_tutoriales-desc:
-  ca: IoT workshop to build a connected Geiger meter. Based on the ESP8266, MQTT, Node-RED and integrated in the GMC network
-  es: Taller IoT para construir un medidor Geiger conectado. Basado en el ESP8266, MQTT, Node-RED e integrado en la red GMC
+  ca: Sabem que construir és tan divertit com competir. I volem donar loportunitat de fer-ho a la manera Maker. Amb tutorials i tallers mensuals abans de la competició.
+  es: Sabemos que construir es tan divertido como competir. Y queremos dar la oportunidad de hacerlo a la manera Maker. Con tutoriales y talleres mensuales antes de la competición.
 
-lorawan4dummies:
+tutoriales:
+  ca: IoT and LoraWAN with BBC micro-bit for beginners
+  es: IoT y LoraWAN con BBC micro-bit para principiantes
+
+talleres:
   ca: IoT and LoraWAN with BBC micro-bit for beginners
   es: IoT y LoraWAN con BBC micro-bit para principiantes
 
