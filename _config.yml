@@ -37,8 +37,7 @@ collections:
 # Menu
 menu:
   - donde_cuando
-  - tutorials
-  - workshops
-  - talks
-  - team
-  - contribute
+  - talleres_tutoriales
+  - participacion
+  - patrocinadores
+  - organizadores

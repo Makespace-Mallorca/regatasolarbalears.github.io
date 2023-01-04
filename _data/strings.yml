@@ -3,75 +3,43 @@ menu:
   es: Menú
 
 intro-phrase:
-  ca: Collaborative training of the Internet of Things
-  es: Aprendizaje colaborativo del Internet de las Cosas
+  ca: I Regata Solar de les Illes Balears
+  es: I Regata Solar de las Islas Baleares
 
 manifesto:
-  ca: The world is becoming increasingly connected. This allows the development of new products designed by engineers and offers opportunities for entrepreneurs to create unprecedented services.  Yet, the huge connectivity rules the world in a new paradigm with new questions and challenges.
-  es: El mundo está cada vez más conectado.  Esto permite el desarrollo de nuevos productos diseñados por ingenieros y ofrece oportunidades para que los empresarios creen servicios sin precedentes.  Sin embargo, la enorme conectividad gobierna el mundo en un nuevo paradigma que nos lleva a nuevas preguntas y desafíos.
+  ca: Després de la participació de quatre equips mallorquins a la V Regata Solar Marine Instruments de Baiona. L'Associació de Makers de Mallorca ha reunit les voluntats de Makers i d'aficionats a la mar per fer aquesta inspiradora competició a Mallorca.
+  es: Tras la participación de cuatro equipos mallorquines en la V Regata Solar Marine Instruments de Baiona. La Asociación de Makers de Mallorca ha reunido las voluntades de Makers y de aficionados a la mar para realizar esta inspiradora competición en Mallorca.
 
-connecting:
-  ca: Connecting as sole purpose, does not work
-  es: El conectar por conectar no funciona
+que_es:
+  ca: En què consisteix?
+  es: ¿En qué consiste?
 
-connecting-desc:
-  ca: Adding connectivity to an object is neither a necessary nor a sufficient condition for a successful product. Monetising only through connectivity rarely guarantees sustainable commercial success
-  es: Añadir conectividad a un objeto no es condición necesaria ni suficiente para convertirlo en un producto de éxito.  Monetizar solo a través de la conectividad rara vez garantiza un éxito comercial sostenible
+que_es-desc:
+  ca: Adding És una competició d'embarcacions no tripulades impulsades per energia solar i el govern de la qual es realitza mitjançant un sistema de control remot o de forma completament autònoma. Són dissenyades i construïdes íntegrament pels equips participants, no es permetran kits comercials, amb l'única excepció de l'emissora i receptor del vaixell, fomentant així l'originalitat, el desenvolupament tecnològic, l'eficiència del disseny i la sostenibilitat del vaixell.
+  es: Es una competición de embarcaciones no tripuladas impulsadas por energía solar y cuyo gobierno se realiza mediante un sistema de control remoto o de forma completamente autónoma. Son diseñadas y construidas íntegramente por los equipos participantes, no se permitirán kits comerciales, con la única excepción de la emisora y receptor del barco, fomentando así la originalidad, el desarrollo tecnológico, la eficiencia del diseño y la sostenibilidad del mismo.
 
-security:
-  ca: Securirty, security and security
-  es: Seguridad, seguridad y seguridad
+para_quien:
+  ca: Qui hi pot participar?
+  es: ¿Quién puede participar?
 
-security-desc:
-  ca: With connectivity comes the potential for external security threats through the devices themselves. Some new communication technologies are born with security deficiencies.  It is mandatory to make a safe design at the beginning
-  es: Con la conectividad viene el potencial de amenazas de seguridad externas a través de los propios dispositivos.  Algunas nuevas tecnologías nacen con carencias de seguridad.  Es obligatorio hacer un diseño seguro desde principio
+para_quien-desc:
+  ca: La competició és oberta principalment a dos grups de persones: escolars i aficionats. En ambdós casos poden inscriure's com a equip o com a persona individual.
+  es: La competición está abierta principalmente a dos grupos de personas: escolares  y aficionados. En ambos casos pueden inscribrise como equipo o como persona individual. 
 
-monitoring:
+objetivos:
   ca: Monitor assets before people
   es: Monitorizar activos antes que personas
 
-monitoring-desc:
-  ca: The information of the asset is the data that serves the utility of the product and service. Therefore, identifying what those data points are must be conscientious and deliberate. If is required to gather personal  information by the product ir must be handled carefully
-  es: La información del activo son los datos que sirven a la utilidad del producto y servicio. Por lo tanto, identificar cuáles son esos puntos de datos debe ser una tarea concienzuda. Si se requiere que el producto recopile información personal, debe manipularse con cuidado
-
-interoperability:
-  ca: Interoperability, the power of IoT
-  es: Interoperabilidad, el poder de IoT
-
-interoperability-desc:
-  ca: IoT interoperability has complicated IoT adoption, but designers must adopt the selection of competing standards in other to an effective data interconnection
-  es: La interoperabilidad de IoT ha complicado la adopción de IoT, pero los diseñadores deben adoptar la selección de estándares competitivos para lograr una interconexión de datos efectiva
-
-free-software:
-  ca: Free Software
-  es: Software Libre
-
-free-software-desc:
-  ca: You can use, study, distribute and improve our code, always released under GPL
-  es: Puedes usar, estudiar, distribuir y mejorar nuestro código, liberado siempre mediante GPL
-
-open-hardware:
-  ca: Open Hardware
-  es: Hardware libre
-
-open-hardware-desc:
-  ca: Our boards and hardware description modules are Open and created with Open Tools
-  es: Nuestras placas y módulos de hardware son Libres y están creados con Herramientas Libres
-
-technological-heritage:
-  ca: Technological Heritage
-  es: Patrimonio Tecnológico
-
-technological-heritage-desc:
-  ca: All our work belongs to everybody and is part of the Technological Heritage
-  es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
+objetivos-desc:
+  ca: És una activitat alineada amb els Objectius de Desenvolupament Sostenible de l'agenda 2030 de l'ONU i amb l'educació orientada STEM (Science Technology Engineering and Mathematics) tan necessària actualment per garantir el futur dels nostres estudiants i totes aquelles persones que es vulguin reciclar en aquestes matèries, posant també el focus a aconseguir equips paritaris.
+  es: Es una actividad alineada con los Objetivos de Desarrollo Sostenible de la agenda 2030 de la ONU y con la educación orientada STEM (Science Technology Engineering and Mathematics) tan necesaria en la actualidad, para garantizar el futuro de nuestros estudiantes y todas aquellas personas que se quieran reciclar en estas materias, poniendo también el foco en conseguir equipos paritarios.
 
 
 donde_cuando:
   ca: On i quan
   es: Dónde y cuándo
 
-projects-desc:
+donde_cuando-desc:
   ca: Index of projects developed for Internet Of Things 
   es: Indice de proyectos desarrollados para el Internet de las Cosas
 
@@ -100,11 +68,11 @@ canamunt-desc:
   es: Primer barrio con una red IoT medioambiental libre y autogestionada
 
 
-tutorials:
+talleres_tutoriales:
   ca: Tutorials
   es: Tutoriales
 
-tutorials-desc:
+talleres_tutoriales-desc:
   ca: Learn about IoT open technologies 
   es: Aprende sobre tecnologias IoT libres
 
@@ -113,11 +81,11 @@ sensor-aqi:
   es: Tutorial para la construcción de sensores de calidad de aire conectado
 
 
-workshops:
+participacion:
   ca: Workshops
   es: Talleres
 
-workshops-desc:
+participacion-desc:
   ca: Documentation of the workshops we have done
   es: Documentación de los talleres que hemos realizado
 
@@ -154,11 +122,11 @@ next-workshop-desc:
   es: ¡Propón un nuevo taller!
 
 
-talks:
+patrocinadores:
   ca: Talks
   es: Charlas
 
-talks-desc:
+patrocinadores-desc:
   ca: Find all the information about our talks
   es: Encuentra toda la información de nuestras charlas
 
@@ -179,17 +147,18 @@ next-talk-desc:
   es: ¡Propón una nueva charla!
 
 
-team:
+organizadores:
   ca: Team & Collaborators
   es: Equipo y colaboraciones
 
-team-desc:
+organizadores-desc:
   ca: Meet the team members and collaborators
   es: Conoce a los miembros del equipo y a nuestros colaboradores
 
 member-position:
-  ca: ICT R&D Specialist
-  es: Técnico ICT R&D
+  ca: Associació
+  es: Asociación
+
 
 contribute:
   ca: Contribute
