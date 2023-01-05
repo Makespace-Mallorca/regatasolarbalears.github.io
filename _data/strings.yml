@@ -80,9 +80,17 @@ bases:
   ca: Bases de la competició
   es: Bases de la competición
 
+bases-desc:
+  ca: Les bases de la competició estan disponibles en un fitxer .pdf
+  es: Las bases de la competición están disponibles en un archivo .pdf
+
 inscripcion:
   ca: Termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig.
-  es: ¡Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo.
+  es: Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo.
+
+inscripcion-desc:
+  ca: Utilitza el formulari per inscriure't a la competició. No dubtis en contactar amb nosaltres si tens qualsevol dubte a regatasolarbalears@gmail.com
+  es: Utiliza el formulario para inscribirte en la competición. No dudes en contactar con nosotros si tienes cualquier duda en regatasolarbalears@gmail.com
 
 
 talleres_tutoriales:
