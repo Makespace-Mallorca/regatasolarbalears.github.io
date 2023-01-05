@@ -8,20 +8,30 @@
             </div>
         </div>
         <div class="row text-center">
-            <form id="fs-frm" name="Nuevas iniciativas MAKERs " accept-charset="utf-8" action="https://formspree.io/xknqwkqb" method="POST">
+            <form id="fs-frm" name="Inscripción para competir en la I Regata Solar de Balears" accept-charset="utf-8" action="https://formspree.io/f/xeqwqzel" method="POST">
               <fieldset id="fs-frm-inputs">
+                <legend>Inscripción para competir en la I Regata Solar de Illes Balears</legend>
                 <label for="forull-name">Nombre</label>
-                <input type="text" name="nombre" id="nombre" placeholder="Nombre" required="">
+                <input type="text" name="nombre" id="nombre" placeholder="Nombre completo del participante o representate" required="">
+                <label for="forull-surname">Apellidos</label>
+                <input type="text" name="apellidos" id="nombre" placeholder="Apellidos" required="">
+                <br>
+                <label for="forull-name">Nombre del equipo o alias</label>
+                <input type="text" name="equipo" id="nombre" placeholder="Nombre del equipo o alias" required="">
                 <br>
                 <label for="email-address">Email</label>
                 <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
                 <br>
+                <label for="telefono">Teléfono</label>
+                <input type="telefono" name="telefono" id="telefono" placeholder="Teléfono" required="">       
+                <br>
                 <fieldset class="direccion">
-                  <legend>¿Quieres contarnos tu idea Maker?</legend>
-                  <label for="note">Describela aqui brevemente</label>
-                  <textarea rows="4" name="comentarios" id="comentarios" placeholder="escribe aquí"></textarea>
-                  <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
+                  <input type="text" name="localidad" placeholder="Localidad" required="">
+                  <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
                 </fieldset>
+                <label for="note">Comentarios</label>
+                <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
+                <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
                 <br>
                 <input type="submit" value="Enviar">
                 <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
