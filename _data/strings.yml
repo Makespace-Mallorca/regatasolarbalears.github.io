@@ -101,12 +101,13 @@ tutorial_telemetria:
   es: Curso de radiocontrol y telemetría impartido por la Industriosa y CETMAR
 
 talleres:
-  ca: IoT and LoraWAN with BBC micro-bit for beginners
-  es: IoT y LoraWAN con BBC micro-bit para principiantes
+  ca: Cada mes farem al FabLab de Mallorca un taller
+  es: Cada mes vamos a realizar en el FabLab de Mallorca un taller
 
 talleres-desc:
-  ca: IoT and LoraWAN with BBC micro-bit for beginners
-  es: IoT y LoraWAN con BBC micro-bit para principiantes
+  ca: on podràs portar el teu vaixell o material per avançar en la seva construcció amb l'ajuda de la comunitat Maker.
+  es: donde podrás llevar tu barco o material para avanzar en su construcción con la ayuda de la comunidad Maker.
+
 
 patrocinadores:
   ca: Patrocinadors
@@ -138,12 +139,12 @@ team:
   es: Equipo
 
 team-desc:
-  en: Coneix els que fan aquest esdeveniment possible
-  es: Conoce a los que hacen este evento posible
+  en: Coneix els que fan que aquest esdeveniment sigui possible
+  es: Conoce a los que hacen que este evento sea posible
 
 member-position:
-  ca: Associació / institucio
-  es: Asociación / institución
+  ca: Associació 
+  es: Asociación
 
 
 contribute:
