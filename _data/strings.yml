@@ -60,37 +60,12 @@ cuando-desc:
   es: La competición engloba un evento de dos días que empieza la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la asociación Maker de Mallorca acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana.
 
 presentacion:
-  ca: Presentació
-  es: Presentación
+  ca: Acte de presentació
+  es: Acto de presentación
 
 presentacion-desc:
   ca: El dissabte 28 de gener a les 11 del matí esperem tots els interessats i curiosos al Museu Maritim de Palma. Us explicarem en què consistiran les jornades i seran benvinguts els vostres suggeriments o recomanacions.
   es: El sábado 28 de enero a las 11 de la mañana esperamos a todos los interesados y curiosos en el Museu Maritim de Palma. Os contaremos en qué van a consistir las jornadas y serán bienvenidas tus sugerencias o recomendaciones.
-
-
-participacion:
-  ca: Participació
-  es: Participación
-
-participacion-desc:
-  ca: Learn about IoT open technologies 
-  es: Aprende sobre tecnologias IoT libres
-
-bases:
-  ca: Bases de la competició
-  es: Bases de la competición
-
-bases-desc:
-  ca: Les bases de la competició estan disponibles en un fitxer .pdf
-  es: Las bases de la competición están disponibles en un archivo .pdf
-
-inscripcion:
-  ca: Termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig.
-  es: Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo.
-
-inscripcion-desc:
-  ca: Utilitza el formulari per inscriure't a la competició. No dubtis en contactar amb nosaltres si tens qualsevol dubte a regatasolarbalears@gmail.com
-  es: Utiliza el formulario para inscribirte en la competición. No dudes en contactar con nosotros si tienes cualquier duda en regatasolarbalears@gmail.com
 
 
 talleres_tutoriales:
@@ -108,6 +83,10 @@ tutorial_materiales:
 tutorial_electronica:
   ca: Components electrònics imprescindibles
   es: Componentes electrónicos imprescindibles
+
+tutorial_montaje:
+  ca: Com muntar el motor, l'electrònica i el panell
+  es: Cómo montar el motor, la electrónica y el panel
 
 tutorial_mando:
   ca: Connectivitat, configuració i ús del comandament a distància
@@ -154,17 +133,17 @@ tbd-desc:
   es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del makespace.mallorca@gmail.com
 
 
-organizadores:
-  ca: Team & Collaborators
-  es: Equipo y colaboraciones
+team:
+  en: Equip
+  es: Equipo
 
-organizadores-desc:
-  ca: Meet the team members and collaborators
-  es: Conoce a los miembros del equipo y a nuestros colaboradores
+team-desc:
+  en: Coneix els que fan aquest esdeveniment possible
+  es: Conoce a los que hacen este evento posible
 
 member-position:
-  ca: Associació
-  es: Asociación
+  ca: Associació / institucio
+  es: Asociación / institución
 
 
 contribute:
@@ -172,6 +151,19 @@ contribute:
   es: Inscripción a la competición
 
 contribute-desc:
-  ca: Termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig
-  es: Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo
+  ca: Termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig de 2023
+  es: Plazo de inscripciones abierto! Aprovecha para inscribirte hasta el 1 de mayo de 2023
+
+inscripcion:
+  ca: Per participar omple aquest formulari i ens posarem en contacte amb tu
+  es: Para participar rellena este formulario y nos pondremos en contacto contigo
+
+bases:
+  ca: Bases de la competició
+  es: Bases de la competición
+
+bases-desc:
+  ca: Les bases de la competició estan disponibles en un fitxer .pdf
+  es: Las bases de la competición están disponibles en un archivo .pdf
+
 

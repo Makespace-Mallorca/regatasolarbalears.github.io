@@ -9,18 +9,24 @@ description: Competición de embarcaciones no tripuladas impulsadas por energía
 # Team names, titles and social links
 people:
 
-  - name: Makespace Mallorca
+  - name: Asociación de Makers de Mallorca
     social:
       - title: twitter
         url: https://twitter.com/MakespacePMI
-      - title: github
-        url: https://github.com/Makespace-Mallorca
+      - title: web
+        url: https://makespacemallorca.org
 
-  - name: Fablab Mallorca
+  - name: Fablab de Mallorca
     social:
       - title: twitter
         url: https://twitter.com/FablabMallorca
+      - title: web
+        url: http://www.fablabmallorca.org
 
+  - name: Associació de Veïns de Canamunt
+    social:
+      - title: facebook
+        url: https://www.facebook.com/avvcanamunt
 
 # Build settings
 markdown: kramdown
@@ -35,4 +41,3 @@ menu:
   - donde_cuando
   - talleres_tutoriales
   - patrocinadores
-  - participacion
