@@ -27,6 +27,7 @@
                     <input type="telephone" name="telefono" id="telefono" placeholder="Teléfono" required="">       
                     <br>
                     <fieldset class="direccion">
+                    <h4 class="service-heading">{% include translate.html key='direccion' %}</h4>
                       <legend>Dirección</legend>
                       <input type="text" name="localidad" placeholder="Localidad" required="">
                       <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
@@ -36,6 +37,7 @@
                         <option value="SI">Si</option>
                         <option value="NO">No</option>
                     </select>
+                    <a href="https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/blob/main/doc/Regata%20Solar%20Illes%20Balears%20Bases.pdf">Descargar aquí las bases</a>
                     <label for="note">Comentarios</label>
                     <textarea rows="3" name="comentarios" id="comentarios" placeholder="Información adicional o comentarios"></textarea>
                     <input type="hidden" name="_subject" id="email-subject" value="Participante registrado">

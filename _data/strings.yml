@@ -159,6 +159,10 @@ inscripcion:
   ca: Per participar omple aquest formulari i ens posarem en contacte amb tu
   es: Para participar rellena este formulario y nos pondremos en contacto contigo
 
+direccion:
+  ca: Adreça
+  es: Dirección
+
 bases:
   ca: Bases de la competició
   es: Bases de la competición
