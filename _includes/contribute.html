@@ -20,6 +20,9 @@
                     <label for="forull-name">Nombre del equipo o alias</label>
                     <input type="text" name="equipo" id="nombre" placeholder="equipo, colegio, instituto" required="">
                     <br>
+                    <label for="forull-name">Número de participantes</label>
+                    <input type="number" name="participantes" id="participantes" placeholder="Nº de participantes del equipo" required="">
+                    <br>
                     <label for="email-address">Email</label>
                     <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">       
                     <br>
@@ -32,6 +35,7 @@
                       <input type="text" name="codigo-postal" placeholder="Código postal" required="">       
                     </fieldset>
                     <br>
+                    <label for="telefono">Autorizaciones:</label>
                     <select name="acepta_bases" required="">
                         <option value="" selected="" disabled="">He leído y acepto las bases del concurso</option>
                         <option value="SI">Si</option>
@@ -40,15 +44,13 @@
                     <br>
                     <a href="https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/blob/main/doc/Regata%20Solar%20Illes%20Balears%20Bases.pdf">Descargar aquí las bases</a>
                     <br>
+                    <br>
                     <select name="acepta_bases" required="">
                         <option value="" selected="" disabled="">Autorizo la toma de fotografías y videos</option>
                         <option value="SI">Si</option>
                         <option value="NO">No</option>
                     </select>
                     <h3 class="section-subheading text-muted">{% include translate.html key='fotos-desc' %}</h3>
-                    <br>
-                    <a href="https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/blob/main/doc/Regata%20Solar%20Illes%20Balears%20Bases.pdf">Descargar aquí las bases</a>
-                    <br>
                     <select name="acepta_bases" required="">
                         <option value="" selected="" disabled="">Acepto la política de privacidad</option>
                         <option value="SI">Si</option>
@@ -60,9 +62,8 @@
                     <input type="hidden" name="_subject" id="email-subject" value="Participante registrado">
                     <br>
                     <input type="submit" value="Enviar">
-                    <label for="submit">Pulsando Enviar acepta la Política de Privacidad que puede consultar </label>
-                    <a href="https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/blob/main/doc/Regata%20Solar%20Illes%20Balears%20Proteccion%20Datos.pdf">aquí.</a>
-
+                    <label for="submit">Pulsando Enviar acepta la Política de Privacidad</label>
+                    <a href="https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/raw/main/doc/Regata%20Solar%20Illes%20Balears%20Proteccion%20Datos.pdf">Descargar aquí las políticas.</a>
                   </fieldset>
                 </form>
             </div>
