@@ -12,6 +12,12 @@
                 <h4 class="service-heading">{% include translate.html key='inscripcion' %}</h4>
                 <form id="fs-frm" name="Inscripción para competir en la I Regata Solar de Balears" accept-charset="utf-8" action="https://formspree.io/f/xeqwqzel" method="POST">
                   <fieldset id="fs-frm-inputs">
+                     <select name="categoría:" required="">
+                        <option value="" selected="" disabled="">Categoría a la que se inscribe</option>
+                        <option value="Grandes">Barcos grandes con máximo de 0,72 m2 de panel</option>
+                        <option value="Pequeños">Barcos prqueños con máximo de 0,36 m2 de panel</option>
+                    </select>
+                    <br>
                     <label for="forull-name">Nombre</label>
                     <input type="text" name="nombre" id="nombre" placeholder="del participante o representate" required="">
                     <label for="forull-surname">Apellidos</label>
