@@ -175,4 +175,10 @@ bases-desc:
   ca: Les bases de la competició estan disponibles en un fitxer .pdf
   es: Las bases de la competición están disponibles en un archivo .pdf
 
-
+team:
+  en: Equip
+  es: Equipo
+  
+team-desc:
+  en: Coneix els que fan que aquest esdeveniment sigui possible
+  es: Conoce a los que hacen que este evento sea posible
