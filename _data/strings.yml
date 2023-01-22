@@ -134,22 +134,26 @@ tbf-desc:
   es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del info@regatasolarbalears.org
 
 
-team:
-  en: Equip
-  es: Equipo
+inscripciones:
+  ca: Inscripcions
+  es: Inscripciones
 
-team-desc:
-  en: Coneix els que fan que aquest esdeveniment sigui possible
-  es: Conoce a los que hacen que este evento sea posible
+inscripciones-desc:
+  ca: Estigues informat per les nostres xarxes socials
+  es: Mantente informado por nuestras redes sociales
 
-member-position:
-  ca: Associació 
-  es: Asociación
+twitter:
+  en: Twitter
+  es: Twitter
+
+instagram:
+  ca: Instagram
+  es: Instagram
 
 
 contribute:
-  ca: Inscripció a la competició
-  es: Inscripción a la competición
+  ca: Formulari d'inscripcions
+  es: Formulario de inscripciones
 
 contribute-desc:
   ca: El termini d´inscripcions obert! Aprofita per inscriure't fins a l'1 de maig de 2023
