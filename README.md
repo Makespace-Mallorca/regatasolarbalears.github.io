@@ -1,4 +1,4 @@
-# [Regata Solar de Baleares website](https://regatasolarbalears.org/)
+# [Regata Solar de Balears ](https://regatasolarbalears.org/)
 
 [![License](http://img.shields.io/:license-gpl-blue.svg)](http://opensource.org/licenses/GPL-2.0)
 
