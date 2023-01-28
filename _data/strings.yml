@@ -133,6 +133,14 @@ idi-desc:
   ca: vL'IDI és un ens instrumental de la Conselleria de Transició Energètica i Sectors Productius del Govern de les Illes Balears.
   es: El IDI es un ente instrumental de la Consejería de Transición Energética y Sectores Productivos del Gobierno de las Islas Baleares. 
 
+palmaactiva:
+  ca: PalmaActiva
+  es: PalmaActiva
+
+palmaactiva-desc:
+  ca: PalmaActiva és l’Agència de Desenvolupament Local de l’Ajuntament de Palma.
+  es: PalmaActiva es la Agencia de Desarrollo Local del Ayuntamiento de Palma.
+
 tbf:
   ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda.
   es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida.
