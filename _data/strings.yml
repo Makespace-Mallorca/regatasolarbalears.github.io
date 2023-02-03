@@ -64,8 +64,8 @@ presentacion:
   es: Acto de presentación
 
 presentacion-desc:
-  ca: El dissabte 28 de gener a les 11 del matí esperem tots els interessats i curiosos al Museu Maritim de Palma. Us explicarem en què consistiran les jornades i seran benvinguts els vostres suggeriments o recomanacions.
-  es: El sábado 28 de enero a las 11 de la mañana esperamos a todos los interesados y curiosos en el Museu Maritim de Palma. Os contaremos en qué van a consistir las jornadas y serán bienvenidas tus sugerencias o recomendaciones.
+  ca: El matí del dissabte 28 de gener es va presentar aquest projecte al Museu Maritim de Palma. Es va parlar de les proves, l'agenda de les jornades, premis, categories i ho farem abans de l'esdeveniment.
+  es: La mañana del sábado 28 de enero se presentó este proyecto en el Museu Maritim de Palma. Se habló de las pruebas, la agenda de las jornadas, premios, categorías y de lo haremos antes del evento. 
 
 
 talleres_tutoriales:
@@ -125,13 +125,13 @@ museu-desc:
   ca: Museu Marítim de Mallorca ens ha cedit amablement els seus espais tant per a la realització de les xerrades com per a la recollida i custòdia del material dels participants.
   es: Museu Marítim de Mallorca nos ha cedido amablemente sus espacios tanto para la realiazación de las charlas como para la recogida y custodia del material de los participantes. 
 
-idi:
-  ca: Institut d'Innovació Empresarial de les Illes Balears
-  es: Institut d'Innovació Empresarial de les Illes Balears
+dgi:
+  ca: DIRECCIÓ GENERAL D'INNOVACIÓ
+  es: DIRECCIÓ GENERAL D'INNOVACIÓ
 
-idi-desc:
-  ca: vL'IDI és un ens instrumental de la Conselleria de Transició Energètica i Sectors Productius del Govern de les Illes Balears.
-  es: El IDI es un ente instrumental de la Consejería de Transición Energética y Sectores Productivos del Gobierno de las Islas Baleares. 
+dgi-desc:
+  ca: Realitza activitats en matèria d'innovació que li correspon com són l'impuls a la innovació i foment d'aquesta innovació; la planificació i coordinació del sistema d'innovació i tecnologia de les Illes Balears.
+  es: Realiza actividades en materia de innovación que le corresponde cómo son el impulso a la innovación y fomento de esta innovación; la planificación y coordinación del sistema de innovación y tecnología de las Islas Baleares.
 
 palmaactiva:
   ca: Palma Activa
