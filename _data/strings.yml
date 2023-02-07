@@ -7,8 +7,8 @@ intro-phrase:
   es: I Regata Solar de las Islas Baleares
 
 manifesto:
-  ca: Després de la participació de quatre equips mallorquins a la V Regata Solar Marine Instruments de Baiona. L'Associació de Makers de Mallorca ha reunit les voluntats de entusiastes i d'aficionats a la mar per fer aquesta inspiradora competició a Mallorca.
-  es: Tras la participación de cuatro equipos mallorquines en la V Regata Solar Marine Instruments de Baiona. La Asociación de Makers de Mallorca ha reunido las voluntades de entusiastas y de aficionados a la mar para realizar esta inspiradora competición en Mallorca.
+  ca: Un dels objectius principals de l'Associació de Makers de Mallorca és promoure i difondre la innovació tecnològica. Aprofitant les oportunitats que ens ofereix l'entorn de les Balears. Ha reunit les voluntats d'entusiastes i aficionats a la mar per fer aquesta inspiradora competició a Mallorca.
+  es: Uno de los principales objetivos de la  Asociación de Makers de Mallorca es promover y difundir la innovación tecnologica. Aprovechando las oportunidades que nos ofrece el entorno de Baleares. Ha reunido las voluntades de entusiastas y de aficionados a la mar para realizar esta inspiradora competición en Mallorca.
 
 que_es:
   ca: En què consisteix?
@@ -75,22 +75,6 @@ talleres_tutoriales:
 talleres_tutoriales-desc:
   ca: Sabem que construir és tan divertit com competir. I volem donar loportunitat de fer-ho a la manera Maker. Amb tutorials i tallers mensuals abans de la competició.
   es: Sabemos que construir es tan divertido como competir. Y queremos dar la oportunidad de hacerlo a la manera Maker. Con tutoriales y talleres mensuales antes de la competición.
-
-tutorial_materiales:
-  ca: Materials comuns que necessitaràs
-  es: Materiales comunes que vas a necesitar
-
-tutorial_electronica:
-  ca: Components electrònics imprescindibles
-  es: Componentes electrónicos imprescindibles
-
-tutorial_montaje:
-  ca: Com muntar el motor, l'electrònica i el panell
-  es: Cómo montar el motor, la electrónica y el panel
-
-tutorial_mando:
-  ca: Connectivitat, configuració i ús del comandament a distància
-  es: Conectividad, configuración y uso del mando a distancia
 
 tutorial_curso:
   ca: Curs d'electrònica i propulsió impartit per la Industriosa i CETMAR
