@@ -23,9 +23,9 @@
 - [ ] n x [Bocina para la hélice](https://es.aliexpress.com/item/4000621589106.html?spm=a2g0o.order_list.order_list_main.15.21ef194dQzQo75&gatewayAdapt=glo2esp)
 
 ## Regulador MPPT
-- [ ] n x [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
-- [ ] n x [Módulo de Sensor de corriente CC bidireccional INA219, 3V-5V, IIC, I2C, monitoreo de energía](https://es.aliexpress.com/item/33047166203.html)
-- [ ] n x [Transceptor inalámbrico Bluetooth HC-05](https://es.aliexpress.com/item/1005002168332848.html?)
+- [ ] 1 x [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
+- [ ] 1 x [Módulo de Sensor de corriente CC bidireccional INA219, 3V-5V, IIC, I2C, monitoreo de energía](https://es.aliexpress.com/item/33047166203.html)
+- [ ] 1 x [Transceptor inalámbrico Bluetooth HC-05](https://es.aliexpress.com/item/1005002168332848.html?)
 
 ## Software
 [Repositorio Regulador MPPT La Industriosa](https://github.com/aindustriosa/Solar_MPPT_board)

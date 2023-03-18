@@ -92,6 +92,14 @@ talleres-desc:
   ca: on podràs portar el teu vaixell o material per avançar en la seva construcció amb l'ajuda de la comunitat Maker. Informa't en MeetUp.
   es: donde podrás llevar tu barco o material para avanzar en su construcción con la ayuda de la comunidad Maker. Infórmate en MeetUp.
 
+lista_materiales:
+  ca: Llista de materials 
+  es: Lista de materiales
+
+lista_materiales-desc:
+  ca: Llista de materials recomanats per construir el teu vaixell solar
+  es: Lista de materiales recomendos para construir tu barco solar
+
 
 patrocinadores:
   ca: Patrocinadors
