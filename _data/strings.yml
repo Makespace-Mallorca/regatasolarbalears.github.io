@@ -125,6 +125,14 @@ dgi-desc:
   ca: Realitza activitats en matèria d'innovació que li correspon com són l'impuls a la innovació i foment d'aquesta innovació; la planificació i coordinació del sistema d'innovació i tecnologia de les Illes Balears.
   es: Realiza actividades en materia de innovación que le corresponde cómo son el impulso a la innovación y fomento de esta innovación; la planificación y coordinación del sistema de innovación y tecnología de las Islas Baleares.
 
+tbf:
+  ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda.
+  es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida.
+
+tbf-desc:
+  ca: Si voleu col·laborar fent una xerrada, patrocinant un premi o finançant l'esdeveniment. Podeu posar-vos en contacte amb nosaltres a través del info@regatasolarbalears.org
+  es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del info@regatasolarbalears.org
+
 palmaactiva:
   ca: Palma Activa
   es: Palma Activa
@@ -133,13 +141,13 @@ palmaactiva-desc:
   ca: PalmaActiva és l’Agència de Desenvolupament Local de l’Ajuntament de Palma.
   es: PalmaActiva es la Agencia de Desarrollo Local del Ayuntamiento de Palma.
 
-tbf:
-  ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda.
-  es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida.
+okmobility:
+  ca: OK Mobility
+  es: OK Mobility
 
-tbf-desc:
-  ca: Si voleu col·laborar fent una xerrada, patrocinant un premi o finançant l'esdeveniment. Podeu posar-vos en contacte amb nosaltres a través del info@regatasolarbalears.org
-  es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del info@regatasolarbalears.org
+okmobility-desc:
+  ca: Solucions de mobilitat global.
+  es: Soluciones de movilidad global.
 
 
 inscripciones:
