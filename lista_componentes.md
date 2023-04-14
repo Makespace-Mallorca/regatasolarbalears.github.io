@@ -26,6 +26,7 @@
 - [ ] 1 x [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
 - [ ] 1 x [Módulo de Sensor de corriente CC bidireccional INA219, 3V-5V, IIC, I2C, monitoreo de energía](https://es.aliexpress.com/item/33047166203.html)
 - [ ] 1 x [Transceptor inalámbrico Bluetooth HC-05](https://es.aliexpress.com/item/1005002168332848.html?)
+- Bom [Resto de componentes](https://github.com/Makespace-Mallorca/regatasolarbalears.github.io/blob/main/ibom.html)
 
 ## Software
 [Repositorio Regulador MPPT La Industriosa](https://github.com/aindustriosa/Solar_MPPT_board)
