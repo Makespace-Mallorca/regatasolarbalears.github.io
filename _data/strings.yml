@@ -92,6 +92,10 @@ tutorial_telemetria:
   ca: Curs de radiocontrol i telemetria impartit per la Industriosa i CETMAR
   es: Curso de radiocontrol y telemetría impartido por la Industriosa y CETMAR
 
+charla_hidrodinámica:
+  ca: Hidrodinàmica i construcció de vaixells solars
+  es: Hidrodinámica y construcción de barcos solares
+
 talleres:
   ca: Cada mes farem al FabLab de Mallorca un taller
   es: Cada mes vamos a realizar en el FabLab de Mallorca un taller
