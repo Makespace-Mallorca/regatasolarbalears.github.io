@@ -51,13 +51,21 @@ donde-desc:
   ca: La competició se celebrarà a l'incomparable marc del Parc de la Mar. L'emblemàtic llac d'aigua salada davant de la catedràl de Palma.
   es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
+aplazada:
+  ca: Ajornada de maig a juny
+  es: Aplazada de mayo a junio
+
+aplazada-desc:
+  ca: Les males previsions meteorològiques previstes per al dia 20 de maig ens han obligat a ajornar la celebració de les proves al dia 3 de juny.
+  es: Las malas previsiones meteorológicas previstas para el día 20 de mayo, nos han obligado a aplazar la celebración de las pruebas al día 3 de junio
+
 cuando:
-  ca: Quan? 20 de Maig de 2023
-  es: ¿Cuándo? 20 de mayo de 2023
+  ca: Quan? 3 de Juny de 2023
+  es: ¿Cuándo? 3 de junio de 2023
 
 cuando-desc:
-  ca: La competició engloba un esdeveniment de dos dies que comença la vesprada del divendres dia 19 de maig amb xerrades i col·loquis de la mà de l'associació Maker de Mallorca acabant amb un sopar per conèixer-nos. El dia 20 se centrarà en la regata amb els preparatius des de les 10 del matí.
-  es: La competición engloba un evento de dos días que empieza la tarde del viernes día 19 de mayo con charlas y coloquios de la mano de la asociación Maker de Mallorca acabando con una cena para conocernos. El día 20 se centrará en la regata con sus preparativos desde las 10 de la mañana.
+  ca: La competició engloba un esdeveniment de dos dies que comença la vesprada del divendres dia 2 de Juny amb proves lliures seguides d'una inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El dia 3 se centrarà en la regata amb els preparatius des de les 10 del matí.
+  es: La competición engloba un evento de dos días que empieza la tarde del viernes día 2 de junio con un pruebas libres seguidas de una inauguración con un aperitivo y la exposicion de algunos barcos de la competición. El día 3 se centrará en la regata con sus preparativos desde las 10 de la mañana.
 
 palmaboatshow:
   ca: A l'International Palma Boat Show 
@@ -174,7 +182,7 @@ nauticfilm:
   es: Nautic Film
 
 nauticfilm-desc:
-  ca: .
+  ca: Producció i màrqueting de vídeo. Especialitzats en producció de vídeos per a nàutica.
   es: Producción y marketing de video. Especializados en producción de videos para naútica. 
 
 inscripciones:
