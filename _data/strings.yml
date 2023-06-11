@@ -3,8 +3,8 @@ menu:
   es: Menú
 
 intro-phrase:
-  ca: I Regata Solar de les Illes Balears
-  es: I Regata Solar de las Islas Baleares
+  ca: Regata Solar de les Illes Balears
+  es: Regata Solar de las Islas Baleares
 
 manifesto:
   ca: Un dels objectius principals de l'Associació de Makers de Mallorca és promoure i difondre la innovació tecnològica. Aprofitant les oportunitats que ens ofereix l'entorn de les Balears. Ha reunit les voluntats d'entusiastes i aficionats a la mar per fer aquesta inspiradora competició a Mallorca.
@@ -121,9 +121,13 @@ talleres-desc:
   es: donde podrás llevar tu barco o material para avanzar en su construcción con la ayuda de la comunidad Maker. Infórmate en MeetUp.
 
 
-patrocinadores:
-  ca: Patrocinadors
-  es: Patrocinadores
+evento2023:
+  ca: Esdeveniment 2023
+  es: Evento 2023
+
+evento2023-desc:
+  ca: Aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
+  es: Este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
 
 patrocinadores-desc:
   ca: Empreses i organismes que han col·laborat amb l'organització i el finançament
@@ -153,13 +157,13 @@ tbf-desc:
   ca: Si voleu col·laborar fent una xerrada, patrocinant un premi o finançant l'esdeveniment. Podeu posar-vos en contacte amb nosaltres a través del info@regatasolarbalears.org
   es: Si desea colaborar realizando una charla, patrocinando un premio o financiando el evento. Puede ponerse en contacto con nosotros a través del info@regatasolarbalears.org
 
-palmaactiva:
-  ca: Palma Activa
-  es: Palma Activa
+bricogeek:
+  ca: BricoGeek
+  es: BricoGeek
 
-palmaactiva-desc:
-  ca: PalmaActiva és l’Agència de Desenvolupament Local de l’Ajuntament de Palma
-  es: PalmaActiva es la Agencia de Desarrollo Local del Ayuntamiento de Palma
+bricogeek-desc:
+  ca: Botiga d'electrònica especialistes a Arduino, Raspberry Pi i Micro:bit. Kit STEM per a educació i col·legis. Distribuïdor Oficial Arduino, Raspberry Pi, ...
+  es: Tienda de electrónica especialistas en Arduino, Raspberry Pi y Micro:bit. Kit STEM para educación y colegios. Distribuidor Oficial Arduino, Raspberry Pi, ...
 
 okmobility:
   ca: OK Mobility
