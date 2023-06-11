@@ -126,32 +126,32 @@ evento2023:
   es: Evento 2023
 
 evento2023-desc:
+  ca: 
+  es: Primer año de celebración
+
+resumen2023:
+  ca: Resum i galeria de fotos i vídeos
+  es: Resumen y galería de fotos y vídeos
+
+resumen2023-desc:
   ca: Aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
   es: Este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
 
-resumen2023:
-  ca: 
-  es:
-
-resumen2023-desc:
-  ca: 
-  es:
-
 ganadores2023:
   ca: 
-  es:
+  es: Ganadores
 
 ganadores2023-desc:
   ca: 
-  es:
+  es: Esta competición se ha ideado para destacar la eficiencia y el funcionamiento de los barcos atendiendo al conjunto de su maniobrabilidad, velocidad y resistencia. Se requirió haber llegado a meta, al menos en una prueba. Y también consideraron posibles faltas o penalizaciones según las reglas básicas de navegación.
 
 prensa2023:
   ca: 
-  es:
+  es: Prensa y noticias
 
 prensa2023-desc:
   ca: 
-  es:
+  es: El evento descrito por la prensa.
 
 
 patrocinadores:
@@ -210,13 +210,6 @@ omniaccess-desc:
   ca: Proveïdor de serveis marins de TI i VSAT altament especialitzat en la indústria de superiots, creuers i embarcacions de recerca.
   es: Proveedor de servicios marinos de TI y VSAT altamente especializado en la industria de superyates, cruceros y embarcaciones de investigación..
 
-nauticfilm:
-  ca: Nautic Film
-  es: Nautic Film
-
-nauticfilm-desc:
-  ca: Producció i màrqueting de vídeo. Especialitzats en producció de vídeos per a nàutica.
-  es: Producción y marketing de video. Especializados en producción de videos para naútica. 
 
 inscripciones:
   ca: Inscripcions
@@ -232,8 +225,8 @@ contribute:
   es: Formulario de inscripciones
 
 contribute-desc:
-  ca: El termini d´inscripcions obert! Aprofita per inscriure't fins a l'10 de maig de 2023
-  es: El plazo de inscripciones ya está abierto! Puedes inscribirte hasta el 10 de mayo de 2023
+  ca: 
+  es: A finales de verano se abrirá el plazo de inscripciones para el evento del 2024.
 
 inscripcion:
   ca: Per participar omple aquest formulari i ens posarem en contacte amb tu
