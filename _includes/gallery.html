@@ -1,0 +1,136 @@
+<!-- Gallery Section -->
+<section id="gallery" class="portfolio">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{% include translate.html key='gallery' %}</h2>
+        <h3 class="section-subheading text-muted">{% include translate.html key='gallery-desc' %}</h3>
+      </div>
+    </div>
+
+  <div class ="row text-center">
+
+    <h3>{% include translate.html key='galleryboxes' %}</h3>
+    {% assign sorted = site.static_files | sort: 'name' %}
+    {% for file in sorted %}
+      {% if file.path contains "/img/galeria/regata1/boxes" %}
+        {% if file.extname == '.jpg' %}
+
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+          {% assign thumbfile = file.path | replace: "/img/","/thumbs/" %}
+
+	  <div class="col-md-4 col-sm-6 portfolio-item">
+	    <a class="portfolio-link bg-light-white" href="{{ file.path | relative_url }}" data-lightbox="regata-set" data-title="{{ filename }}">
+              <div class="portfolio-hover"></div>
+              <img class="img-responsive" src="{{ thumbfile }}" alt="" />
+            </a>
+	    <!--<div class="portfolio-caption bg-light-white"></div> -->
+	  </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class ="row text-center">
+    <h3>{% include translate.html key='gallerysalida' %}</h3>
+    {% assign sorted = site.static_files | sort: 'name' %}
+    {% for file in sorted %}
+      {% if file.path contains "/img/galeria/regata1/salida" %}
+        {% if file.extname == '.jpg' %}
+
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+          {% assign thumbfile = file.path | replace: "/img/","/thumbs/" %}
+
+	  <div class="col-md-4 col-sm-6 portfolio-item">
+	    <a class="portfolio-link bg-light-white" href="{{ file.path | relative_url }}" data-lightbox="regata-set" data-title="{{ filename }}">
+              <div class="portfolio-hover"></div>
+              <img class="img-responsive" src="{{ thumbfile }}" alt="" />
+            </a>
+	    <!--<div class="portfolio-caption bg-light-white"></div> -->
+	  </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class ="row text-center">
+    <h3>{% include translate.html key='gallerycompeticion' %}</h3>
+    {% assign sorted = site.static_files | sort: 'name' %}
+    {% for file in sorted %}
+      {% if file.path contains "/img/galeria/regata1/competición" %}
+        {% if file.extname == '.jpg' %}
+
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+          {% assign thumbfile = file.path | replace: "/img/","/thumbs/" %}
+
+	  <div class="col-md-4 col-sm-6 portfolio-item">
+	    <a class="portfolio-link bg-light-white" href="{{ file.path | relative_url }}" data-lightbox="regata-set" data-title="{{ filename }}">
+              <div class="portfolio-hover"></div>
+              <img class="img-responsive" src="{{ thumbfile }}" alt="" />
+            </a>
+	    <!--<div class="portfolio-caption bg-light-white"></div> -->
+	  </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class ="row text-center">
+    <h3>{% include translate.html key='gallerypremios' %}</h3>
+    {% assign sorted = site.static_files | sort: 'name' %}
+    {% for file in sorted %}
+      {% if file.path contains "/img/galeria/regata1/premios" %}
+        {% if file.extname == '.jpg' %}
+
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+          {% assign thumbfile = file.path | replace: "/img/","/thumbs/" %}
+
+	  <div class="col-md-4 col-sm-6 portfolio-item">
+	    <a class="portfolio-link bg-light-white" href="{{ file.path | relative_url }}" data-lightbox="regata-set" data-title="{{ filename }}">
+              <div class="portfolio-hover"></div>
+              <img class="img-responsive" src="{{ thumbfile }}" alt="" />
+            </a>
+	    <!--<div class="portfolio-caption bg-light-white"></div> -->
+	  </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class ="row text-center">
+    <h3>{% include translate.html key='galleryotros' %}</h3>
+    {% assign sorted = site.static_files | sort: 'name' %}
+    {% for file in sorted %}
+      {% if file.path contains "/img/galeria/regata1/otros" %}
+        {% if file.extname == '.jpg' %}
+
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+          {% assign thumbfile = file.path | replace: "/img/","/thumbs/" %}
+
+	  <div class="col-md-4 col-sm-6 portfolio-item">
+	    <a class="portfolio-link bg-light-white" href="{{ file.path | relative_url }}" data-lightbox="regata-set" data-title="{{ filename }}">
+              <div class="portfolio-hover"></div>
+              <img class="img-responsive" src="{{ thumbfile }}" alt="" />
+            </a>
+	    <!--<div class="portfolio-caption bg-light-white"></div> -->
+	  </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+
+
+  </div>
+</section>
