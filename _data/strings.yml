@@ -52,28 +52,28 @@ donde-desc:
   es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
 cuando:
-  ca: Quan? En una data per determinar el maig del 2024
-  es: ¿Cuándo? En una fecha por determinar en mayo del 2024 
+  ca: Prepara't per aquest maig
+  es: Prepárate para este mayo
 
-cuando-desc:
-  ca: La competició engloba un esdeveniment de dos dies que comença divendres a la tarda amb un proves lliures seguides de xerrades i un acte inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El següent dia estarà centrat en la regata amb els preparatius des de les 10 del matí.
-  es: La competición engloba un evento de dos días que empieza la tarde del viernes con un pruebas libres seguidas de charlas y un acto inauguración con un aperitivo y la exposicion de algunos barcos de la competición. El siguiente día estará centrado en la regata con sus preparativos desde las 10 de la mañana.
+cuando-desc: 
+  ca: La competició engloba un esdeveniment de dos dies que començarà la tarda del divendres 17 de maig amb proves lliures seguides de xerrades i un acte inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El següent, dissabte dia 18. Estarà centrat a la regata amb els seus preparatius des de les 10 del matí.
+  es: La competición engloba un evento de dos días que empezará la tarde del viernes 17 de mayo con un pruebas libres seguidas de charlas y un acto inauguración con un aperitivo y la exposicion de algunos barcos de la competición. El siguiente, sábado día 18. Estará centrado en la regata con sus preparativos desde las 10 de la mañana.
 
 palmaboatshow:
   ca: A l'International Palma Boat Show 
   es: En el International Palma Boat Show
 
 palmaboatshow-desc:
-  ca: Diversos prototips d'embarcacions solars es van veure navegant a la Palma International Boat Show. Són models preparats per competir a la categoria gran.
-  es: Varios prototipos de embarcaciones solares se pudieron ver navegando en la Palma International Boat Show. Son  modelos preparados para competir en la categoría grande.
+  ca: Un any més estarem a Palma International Boat Show amb diversos prototips d'embarcacions solars. Veureu navegant models preparats per competir en les diverses categories.
+  es: Un año más estaremos en la Palma International Boat Show con varios prototipos de embarcaciones solares. Verás navegando modelos preparados para competir en las diversas categorías.
 
 presentacion:
   ca: Acte de presentació
   es: Acto de presentación
 
 presentacion-desc:
-  ca: El matí del dissabte 28 de gener es va presentar aquest projecte al Museu Maritim de Palma. Es va parlar de les proves, l'agenda de les jornades, premis, categories i ho farem abans de l'esdeveniment.
-  es: La mañana del sábado 28 de enero se presentó este proyecto en el Museu Maritim de Palma. Se habló de las pruebas, la agenda de las jornadas, premios, categorías y de lo haremos antes del evento. 
+  ca: Properament se celebrarà un esdeveniment públic per parlar de l'agenda de les jornades de l'esdeveniment, els premis, les categories i de tot el que passarà els mesos abans de l'esdeveniment.
+  es: Próximamente se celebrará un evento público para hablar de la agenda de las jornadas del evento, los premios, categorías y de todo lo que pasará en los meses antes del evento. 
 
 
 talleres_tutoriales:
@@ -145,6 +145,13 @@ prensa2023-desc:
   ca: L'esdeveniment descrit per la premsa.
   es: El evento descrito por la prensa.
 
+entrevista_tv4:
+  ca: Entrevista TV4 organitzadors
+  es: Entrevista TV4 organizadores
+
+entrevista_tv4-desc:
+  ca: Entrevista al programa de Passió pel mar del canal TV4 a dos dels organitzadors de la Regata Solar 2023.
+  es: Entrevista en el programa de Pasión por el mar del canal TV4 a dos de los organizadores de la Regata Solar 2023.
 
 patrocinadores:
   ca: Patrocinadors
@@ -221,12 +228,16 @@ contribute-desc:
   es: A finales de verano se abrirá el plazo de inscripciones para el evento del 2024.
 
 inscripcion:
-  ca: Per participar omple aquest formulari i ens posarem en contacte amb tu
-  es: Para participar rellena este formulario y nos pondremos en contacto contigo
+  ca: Per participar heu d'emplenar aquest formulari i fer la transferència amb la quota d'inscripció. Després, ens posarem en contacte amb tu
+  es: Para participar debes rellenar este formulario y hacer la transferencia con la cuota de inscripción. Luego, nos pondremos en contacto contigo
 
 direccion:
   ca: Adreça
   es: Dirección
+
+cuota-desc:
+  ca: De requereix el pagament de 30€ en concepte d'inscripció a la prova que seran REEMBOSSATS en cas que es participi a la prova. El mètode de pagament és per transferència al compte següent ES1920560009702058796729 de Caixa Colonya a nom de l'Associació Makers Mallorca.
+  es: De requiere el pago de 30€ en concepto de inscripción a la prueba que serán REEMBOLSADOS en caso de que se participe en la prueba. El método de pago es por transferencia a la siguiente cuenta ES1920560009702058796729 de Caixa Colonya a nombre de la Asociación Makers Mallorca.
 
 fotos-desc:
   ca: Per tal de ser publicades a la pàgina web de l'esdeveniment/premsa/xarxes socials. Aquesta autorització és necessària per participar al concurs. Per això necessita disposar d'autorització o denegació escrita pels representants legals dels menors que hi participin. En cas contrari, NO poden assistir a l'esdeveniment.
