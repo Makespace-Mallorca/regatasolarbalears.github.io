@@ -46,8 +46,9 @@
                     <label for="cuota">Cuota de inscripción:</label>
                     <br>
                     <select name="pago_cuota" required="">
-                        <option value="" selected="" disabled="">¿He realizado el pago de 30€ en concepto de inscripción?</option>
-                        <option value="SI">Si</option>
+                        <option value="" selected="" disabled="">¿He realizado el pago de inscripción?</option>
+                        <option value="SI30">Si. 30€ categoría Open</option>
+                        <option value="SI200">Si. 200€ categoría Kit</option>
                         <option value="NO">No</option>
                     </select>
                     <h3 class="section-subheading text-muted">{% include translate.html key='cuota-desc' %}</h3>

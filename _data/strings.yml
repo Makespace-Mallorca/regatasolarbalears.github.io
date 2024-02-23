@@ -103,13 +103,21 @@ charla_hidrodinamica:
   ca: Hidrodinàmica i construcció de vaixells solars
   es: Hidrodinámica y construcción de barcos solares
 
+kit:
+  ca: Un kit per fer-t'ho fàcil
+  es: Un kit para hacértelo fácil
+
+kit-desc:
+  ca: Si t'agradaria participar-hi però no tens molt de temps, no estàs familiaritzat amb aquestes tecnologies o senzillament vols que els teus fills participin muntant el vaixell. L'organització us pot facilitar els components, les eines i l'espai perquè tot sigui molt fàcil i creatiu.
+  es: Si te gustaría participar pero no tienes mucho tiempo, no estás familiarizado con estas tecnologías o sencillamente quieres que tus hijos participen montando el barco. La organización te puede facilitar los componentes, las herramientas y el espacio para que todo sea muy fácil y creativo. 
+
 talleres:
   ca: Cada mes farem al FabLab de Mallorca un taller
   es: Cada mes vamos a realizar en el FabLab de Mallorca un taller
 
 talleres-desc:
-  ca: on podràs portar el teu vaixell o material per avançar en la seva construcció amb l'ajuda de la comunitat Maker. Informa't en MeetUp.
-  es: donde podrás llevar tu barco o material para avanzar en su construcción con la ayuda de la comunidad Maker. Infórmate en MeetUp.
+  ca: On podràs portar el teu vaixell o material per avançar en la seva construcció amb l'ajuda de la comunitat Maker. Informa't en MeetUp.
+  es: Donde podrás llevar tu barco o material para avanzar en su construcción con la ayuda de la comunidad Maker. Infórmate en MeetUp.
 
 
 evento2023:
@@ -208,6 +216,13 @@ omniaccess-desc:
   ca: Proveïdor de serveis marins de TI i VSAT altament especialitzat en la indústria de superiots, creuers i embarcacions de recerca.
   es: Proveedor de servicios marinos de TI y VSAT altamente especializado en la industria de superyates, cruceros y embarcaciones de investigación..
 
+rcnp:
+  ca: Real Club Naútico de Palma
+  es: Real Club Naútico de Palma
+
+rcnp-desc:
+  ca: El Reial Club Nàutic de Palma (RCNP) és una de les entitats socials i esportives més prestigioses d´Espanya. Compte amb gairebé 2.000 famílies associades.
+  es: El Real Club Náutico de Palma (RCNP) es una de las entidades sociales y deportivas más prestigiosas de España. Cuenta con casi 2.000 familias asociadas.
 
 inscripciones:
   ca: Inscripcions
