@@ -67,6 +67,14 @@ palmaboatshow-desc:
   ca: Un any més estarem a Palma International Boat Show amb diversos prototips d'embarcacions solars. Veureu navegant models preparats per competir en les diverses categories.
   es: Un año más estaremos en la Palma International Boat Show con varios prototipos de embarcaciones solares. Verás navegando modelos preparados para competir en las diversas categorías.
 
+premios:
+  ca: Premis
+  es: Premios
+
+premios-desc:
+  ca: Aquesta competició s'ha ideat per premiar l'eficiència, la sostenibilitat i la innovació dels vaixells atenent el conjunt de la seva maniobrabilitat, velocitat i resistència.
+  es: Esta competición se ha ideado para premiar la eficiencia, la sostenibilidad e innovación de los barcos atendiendo al conjunto de su maniobrabilidad, velocidad y resistencia.
+
 presentacion:
   ca: Acte de presentació competició 2024
   es: Acto de presentación competición 2024
