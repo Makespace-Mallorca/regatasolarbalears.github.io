@@ -10,6 +10,8 @@
 |-----------|
 | <img src="img/talleres_tutoriales/kit/soporte.jpeg" width="300" align="center"/> |
 
+[![Kit](img/talleres_tutoriales/kit/video_kit.png)](https://youtube.com/shorts/Opnw3zThybA)
+
 Puedes obtener tu kit de barco solar inscribiéndote en [la web de la Regata](https://www.regatasolarbalears.org/) en el formulario final:
 
 <img src="img/talleres_tutoriales/kit/inscripción_kit" align="center"/> 
