@@ -18,7 +18,7 @@
 ## ¿Cómo conseguirlo?
 Puedes obtener tu kit de barco solar inscribiéndote en [la web de la Regata](https://www.regatasolarbalears.org/) en el formulario final:
 
-<img src="img/talleres_tutoriales/kit/inscripción_kit" align="center"/> 
+<img src="img/talleres_tutoriales/kit/inscripcion_kit.png" align="center"/> 
 
 ## ¿Cómo montarlo?
 Cada 15 días se celebrará en el FabLab de Mallorca un taller gratuito para ayudarte a montar tu ki y tu barco. Puedes inscrbirte e informarte de las fechas en la redes sociales y en Meetup: https://www.meetup.com/es-ES/makespace-mallorca/
