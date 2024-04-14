@@ -207,6 +207,14 @@ bricogeek-desc:
   ca: Botiga d'electrònica especialistes a Arduino, Raspberry Pi i Micro:bit. Kit STEM per a educació i col·legis. Distribuïdor Oficial Arduino, Raspberry Pi, ...
   es: Tienda de electrónica especialistas en Arduino, Raspberry Pi y Micro:bit. Kit STEM para educación y colegios. Distribuidor Oficial Arduino, Raspberry Pi, ...
 
+ihobbies:
+  ca: ihobbies
+  es: ihobbies
+
+ihobbies-desc:
+  ca: Botiga de Modelisme i Radiocontrol Drons professionals i sport DJI Distribuïdor per a Espanya i Portugal de turbines JetCat i servos MKS.
+  es: Tienda de Modelismo y Radiocontrol Drones profesionales y sport DJI Distribuidor para España y Portugal de turbinas JetCat y servos MKS.
+
 okmobility:
   ca: OK Mobility
   es: OK Mobility
