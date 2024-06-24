@@ -52,12 +52,12 @@ donde-desc:
   es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
 cuando:
-  ca: Prepara't per aquest maig
-  es: Prepárate para este mayo
+  ca: Prepárate para la próxima edición del 2025
+  es: Prepara't per a la propera edició del 2025
 
 cuando-desc: 
-  ca: La competició engloba un esdeveniment de dos dies que començarà la tarda del divendres 17 de maig amb proves lliures seguides de xerrades i un acte inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El següent, dissabte dia 18. Estarà centrat a la regata amb els seus preparatius des de les 10 del matí.
-  es: La competición engloba un evento de dos días que empezará la tarde del viernes 17 de mayo con un pruebas libres seguidas de charlas y un acto inauguración con un aperitivo y la exposicion de algunos barcos de la competición. El siguiente, sábado día 18. Estará centrado en la regata con sus preparativos desde las 10 de la mañana.
+  ca: La competició englobarà un esdeveniment de dos dies que començarà la tarda d'un divendres a mitjans de maig amb proves lliures seguides de xerrades i un acte inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El dia següent, dissabte. Estarà centrat en la regata amb els preparatius des de les 10 del matí.
+  es: La competición englobará un evento de dos días que empezará la tarde de un viernes a mediados de mayo con un pruebas libres seguidas de charlas y un acto inauguración con un aperitivo y la exposicion de algunos barcos de la competición. El día siguiente, sábado. Estará centrado en la regata con sus preparativos desde las 10 de la mañana.
 
 palmaboatshow:
   ca: A l'International Palma Boat Show 
@@ -136,20 +136,12 @@ eventos_anteriores_desc:
   es: Todo sobre lo acontecido en el 2023 y 2024
 
 resumen2023:
-  ca: Resum i galeria de fotos i vídeos
-  es: Resumen y galería de fotos y vídeos
-
-resumen2023-desc:
-  ca: En aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
-  es: En este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
+  ca: Fotos i vídeos 2023
+  es: Fotos y vídeos 2024
 
 resumen2024:
-  ca: Resum i galeria de fotos i vídeos
-  es: Resumen y galería de fotos y vídeos
-
-resumen2023-desc:
-  ca: En aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
-  es: En este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
+  ca: Fotos i vídeos 2024
+  es: Fotos y vídeos 2024
 
 ganadores2023:
   ca: Guanyadors 2023
