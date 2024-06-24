@@ -52,8 +52,8 @@ donde-desc:
   es: La competición se celebrará en el incomparable marco del Parc de la Mar. El emblematico lago de agua salada frente a la catedrál de Palma.
 
 cuando:
-  ca: Prepárate para la próxima edición del 2025
-  es: Prepara't per a la propera edició del 2025
+  ca: Prepara't per a la propera edició del 2025
+  es: Prepárate para la próxima edición del 2025
 
 cuando-desc: 
   ca: La competició englobarà un esdeveniment de dos dies que començarà la tarda d'un divendres a mitjans de maig amb proves lliures seguides de xerrades i un acte inauguració amb un aperitiu i l'exposició d'alguns vaixells de la competició. El dia següent, dissabte. Estarà centrat en la regata amb els preparatius des de les 10 del matí.
@@ -137,7 +137,7 @@ eventos_anteriores_desc:
 
 resumen2023:
   ca: Fotos i vídeos 2023
-  es: Fotos y vídeos 2024
+  es: Fotos y vídeos 2023
 
 resumen2024:
   ca: Fotos i vídeos 2024
