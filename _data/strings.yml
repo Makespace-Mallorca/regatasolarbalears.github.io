@@ -127,35 +127,59 @@ talleres-desc:
   ca: Inscriu-te amb Kit i tindrem tot preparat perquè puguis construir el teu vaixell. Començarem pels conceptes bàsics d'electrònica i mecànica. És un procés de treball i aprenentatge que t'ocuparà dues o tres sessions. També pots portar el teu material perquè et donem un cop de mà.
   es: Inscríbete con Kit y tendremos todo preparado para que puedas construir tu barco. Empezaremos por los conceptos básicos de electrónica y mecánica. Se trata de un proceso de trabajo y aprendizaje que te ocupará dos o tres sesiones. También puedes traer tu material para que te echemos una mano.
 
-evento2023:
-  ca: Esdeveniment 2023
-  es: Evento 2023
+eventos_anteriores:
+  ca: Esdeveniments anteriors
+  es: Eventos anteriores
 
-evento2023-desc:
-  ca: Primer any de celebració
-  es: Primer año de celebración
+eventos_anteriores_desc:
+  ca: Tot sobre el que va passar el 2023 i 2024
+  es: Todo sobre lo acontecido en el 2023 y 2024
 
 resumen2023:
   ca: Resum i galeria de fotos i vídeos
   es: Resumen y galería de fotos y vídeos
 
 resumen2023-desc:
-  ca: Aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
-  es: Este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
+  ca: En aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
+  es: En este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
+
+resumen2024:
+  ca: Resum i galeria de fotos i vídeos
+  es: Resumen y galería de fotos y vídeos
+
+resumen2023-desc:
+  ca: En aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
+  es: En este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
 
 ganadores2023:
   ca: Guanyadors 2023
   es: Ganadores 2023
 
 ganadores2023-desc:
-  ca: Aquesta competició s'ha ideat per destacar l'eficiència i el funcionament dels vaixells atenent el conjunt de la seva maniobrabilitat, velocitat i resistència. Es va requerir haver arribat a meta, si més no en una prova. I també van considerar possibles faltes o penalitzacions segons les regles bàsiques de navegació.
-  es: Esta competición se ha ideado para destacar la eficiencia y el funcionamiento de los barcos atendiendo al conjunto de su maniobrabilidad, velocidad y resistencia. Se requirió haber llegado a meta, al menos en una prueba. Y también consideraron posibles faltas o penalizaciones según las reglas básicas de navegación.
+  ca: En aquest any l'esdeveniment va començar a les 11 hores d'un dissabte 10 de juny que va clarejar amb alguns núvols. La competició va ser dividida en tres modalitats. Velocitat, habilitat i una regata final conjunta amb tots els participants de la mateixa categoria.
+  es: En este año el evento comenzó a las 11 horas de un sábado 10 de junio que amaneció con algunas nuves. La competición fue dividida en tres modalidades. Velocidad, habilidad y una regata final conjunta con todos los participantes de la misma categoría.
+
+ganadores2024:
+  ca: Guanyadors 2024
+  es: Ganadores 2024
+
+ganadores2024-desc:
+  ca: Passades les 11 del matí del dissabte 18 de maig. Totes les embarcacions estaven preparades per a una única prova de resistència. Durant una hora i mitja, els equips van demostrar la seva habilitat per pilotar i mantenir el vaixell en competició malgrat avaries i contratemps com el tomb de dues al pas d'un helicòpter de la Guàrdia Civil.
+  es: Pasadas las 11 de la mañana del sábado 18 de mayo. Todas las embarcaciones estaban preparadas para una única prueba de resistencia. Durante una hora y media, los equipos demostraron su habilidad para pilotar y mantener su barco en competición pese a averias y contratiempos como el vuelco de dos de ellas al paso de un helicoptero de la Guardia Civil. 
 
 prensa2023:
-  ca: Premsa i notícies
-  es: Prensa y noticias
+  ca: Premsa i notícies del 2023
+  es: Prensa y noticias del 2023
 
 prensa2023-desc:
+  ca: L'esdeveniment descrit per la premsa.
+  es: El evento descrito por la prensa.
+
+prensa2024:
+  ca: Premsa i notícies del 2024
+  es: Prensa y noticias del 2024
+
+prensa2024-desc:
   ca: L'esdeveniment descrit per la premsa.
   es: El evento descrito por la prensa.
 
