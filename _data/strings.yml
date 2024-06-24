@@ -269,8 +269,8 @@ contribute:
   es: Formulario de inscripciones
 
 contribute-desc:
-  ca: El termini d'inscripció es va obrir el 3 de febrer del 2024 i acabarà l'1 de maig. El nombre màxim de participants entre totes les categories és de 20 persones.
-  es: El plazo de inscripción se abrió el 3 de febrero de 2024 y terminará el 1 de Mayo. El número máximo de participantes entre todas las categorías es de 20.
+  ca: El termini d'inscripció s'obrirà el setembre del 2024 i s'acabarà l'1 de maig del 2025. El nombre màxim de participants entre totes les categories és de 20.
+  es: El plazo de inscripción se abrirá en septiembre del 2024 y terminará el 1 de mayo de 2025. El número máximo de participantes entre todas las categorías es de 20.
 
 inscripcion:
   ca: Per participar heu d'emplenar aquest formulari i fer la transferència amb la quota d'inscripció. Després, ens posarem en contacte amb tu. Gracies.
@@ -298,7 +298,7 @@ bases:
 
 bases-desc:
   ca: Les bases de la competició estan disponibles en un fitxer .pdf
-  es: Las bases de la competición están disponibles en un archivo .pdf
+  es: Las bases de la competición están disponibles en este archivo .pdf
 
 team:
   en: Equip
