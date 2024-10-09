@@ -300,6 +300,14 @@ bases-desc:
   ca: Les bases de la competició estan disponibles en un fitxer .pdf
   es: Las bases de la competición están disponibles en este archivo .pdf
 
+plano:
+  ca: Plano de evento
+  es: Plànol d'esdeveniment
+
+plano-desc:
+  ca: Puedes descargar aquí el fichero de coordenadas de la situación de las boyas
+  es: Podeu descarregar aquí el fitxer de coordenades de la situació de les boies
+
 team:
   en: Equip
   es: Equipo
