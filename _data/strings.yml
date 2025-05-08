@@ -199,13 +199,13 @@ museu-desc:
   ca: Museu Marítim de Mallorca ens ha cedit amablement els seus espais tant per a la realització de les xerrades com per a la recollida i custòdia del material dels participants
   es: Museu Marítim de Mallorca nos ha cedido amablemente sus espacios tanto para la realiazación de las charlas como para la recogida y custodia del material de los participantes
 
-dgi:
-  ca: DIRECCIÓ GENERAL D'INNOVACIÓ 
-  es: Dirección General de Innovación
+ibizadroneworks:
+  ca: IBIZA DRONE WORKS
+  es: IBIZA DRONE WORKS
 
-dgi-desc:
-  ca: Realitza activitats en matèria d'innovació que li correspon com són l'impuls a la innovació i foment d'aquesta innovació; la planificació i coordinació del sistema d'innovació i tecnologia de les Illes Balears.
-  es: Realiza actividades en materia de innovación que le corresponde cómo son el impulso a la innovación y fomento de esta innovación; la planificación y coordinación del sistema de innovación y tecnología de las Islas Baleares.
+ibizadroneworks-desc:
+  ca: És l'empresa de referència a Balears per a feines amb drones. Especialitzats en audiovisuals, termografies i esdeveniments. És l'autora dels vídeos i enregistraments aèris del nostre esdeveniment a Parc de la Mar.
+  es: Es la empresa de referencia en Baleares para trabajos con drones. Especializados en audiovisuales, termografías y eventos. Es la autora de los videos y grabaciones aéreas de nuestro evento en Parc de la Mar.
 
 tbf:
   ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda
@@ -214,14 +214,6 @@ tbf:
 tbf-desc:
   ca: Si voleu col·laborar finançant l'esdeveniment, fent una xerrada o patrocinant un premi. Podeu posar-vos en contacte amb nosaltres enviant un correu a regatasolarbalear@gmail.com. Des de la icona inferior dreta es podrà descarregar el document amb els models de col·laboració.
   es: Si desea colaborar financiando el evento, realizando una charla o patrocinando un premio. Puede ponerse en contacto con nosotros enviando un correo a regatasolarbalear@gmail.com. Desde el icono inferior derecho podrá descargarse el documento con los modelos de colabración.
-
-bricogeek:
-  ca: BricoGeek
-  es: BricoGeek
-
-bricogeek-desc:
-  ca: Botiga d'electrònica especialistes a Arduino, Raspberry Pi i Micro:bit. Kit STEM per a educació i col·legis. Distribuïdor Oficial Arduino, Raspberry Pi, ...
-  es: Tienda de electrónica especialistas en Arduino, Raspberry Pi y Micro:bit. Kit STEM para educación y colegios. Distribuidor Oficial Arduino, Raspberry Pi, ...
 
 ihobbies:
   ca: ihobbies
