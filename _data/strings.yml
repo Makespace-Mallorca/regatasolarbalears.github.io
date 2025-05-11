@@ -207,11 +207,11 @@ ibizadroneworks-desc:
   ca: És l'empresa de referència a Balears per a feines amb drones. Especialitzats en audiovisuals, termografies i esdeveniments. És l'autora dels vídeos i enregistraments aèris del nostre esdeveniment a Parc de la Mar.
   es: Es la empresa de referencia en Baleares para trabajos con drones. Especializados en audiovisuales, termografías y eventos. Es la autora de los videos y grabaciones aéreas de nuestro evento en Parc de la Mar.
 
-tbf:
+djpiter:
   ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda
   es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida
 
-tbf-desc:
+djpiter-desc:
   ca: Si voleu col·laborar finançant l'esdeveniment, fent una xerrada o patrocinant un premi. Podeu posar-vos en contacte amb nosaltres enviant un correu a regatasolarbalear@gmail.com. Des de la icona inferior dreta es podrà descarregar el document amb els models de col·laboració.
   es: Si desea colaborar financiando el evento, realizando una charla o patrocinando un premio. Puede ponerse en contacto con nosotros enviando un correo a regatasolarbalear@gmail.com. Desde el icono inferior derecho podrá descargarse el documento con los modelos de colabración.
 
@@ -223,22 +223,6 @@ ihobbies-desc:
   ca: Botiga de Modelisme i Radiocontrol Drons professionals i sport DJI Distribuïdor per a Espanya i Portugal de turbines JetCat i servos MKS.
   es: Tienda de Modelismo y Radiocontrol Drones profesionales y sport DJI Distribuidor para España y Portugal de turbinas JetCat y servos MKS.
 
-okmobility:
-  ca: OK Mobility
-  es: OK Mobility
-
-okmobility-desc:
-  ca: Solucions de mobilitat global.
-  es: Soluciones de movilidad global.
-
-omniaccess:
-  ca: Omniaccess
-  es: Omniaccess
-
-omniaccess-desc:
-  ca: Proveïdor de serveis marins de TI i VSAT altament especialitzat en la indústria de superiots, creuers i embarcacions de recerca.
-  es: Proveedor de servicios marinos de TI y VSAT altamente especializado en la industria de superyates, cruceros y embarcaciones de investigación..
-
 rcnp:
   ca: Real Club Naútico de Palma
   es: Real Club Naútico de Palma
@@ -246,6 +230,14 @@ rcnp:
 rcnp-desc:
   ca: El Reial Club Nàutic de Palma (RCNP) és una de les entitats socials i esportives més prestigioses d´Espanya. Compte amb gairebé 2.000 famílies associades.
   es: El Real Club Náutico de Palma (RCNP) es una de las entidades sociales y deportivas más prestigiosas de España. Cuenta con casi 2.000 familias asociadas.
+
+tbf:
+  ca: Tota col·laboració d'empreses, organitzacions o institucions serà benvinguda
+  es: Toda colaboración de empresas, organizaciones o instituciones será bienvenida
+
+tbf-desc:
+  ca: Si voleu col·laborar finançant l'esdeveniment, fent una xerrada o patrocinant un premi. Podeu posar-vos en contacte amb nosaltres enviant un correu a regatasolarbalear@gmail.com. Des de la icona inferior dreta es podrà descarregar el document amb els models de col·laboració.
+  es: Si desea colaborar financiando el evento, realizando una charla o patrocinando un premio. Puede ponerse en contacto con nosotros enviando un correo a regatasolarbalear@gmail.com. Desde el icono inferior derecho podrá descargarse el documento con los modelos de colabración.
 
 inscripciones:
   ca: Contacte i inscripcions
