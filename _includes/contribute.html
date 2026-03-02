@@ -17,8 +17,7 @@
                      <select name="categoría:" required="">
                         <option value="" selected="" disabled="">Categoría a la que se inscribe</option>
                         <option value="Open">Open. Diseño y construcción libre</option>
-                        <option value="Kit">Kit. Componentes facilitados por la organización (200€ depósito)</option>
-                        <option value="Centros">Centros educativos. Componentes categoria kit. </option>
+                        <option value="Kit">Kit. Componentes facilitados por la organización </option>
                     </select>
                     <br>
                     <label for="forull-name">Nombre</label>
@@ -48,9 +47,8 @@
                     <br>
                     <select name="pago_cuota" required="">
                         <option value="" selected="" disabled="">¿He realizado el pago de inscripción?</option>
-                        <option value="SI30">Si. 30€ categoría Open</option>
-                        <option value="SI200">Si. 200€ categoría Kit</option>
-                        <option value="NOCENTROS">No. Categoría Centros</option>
+                        <option value="SI_regata">Si. 15€ Inscripción a la regata</option>
+                        <option value="SI_asociacion">Si. 15€ Cuota anual asociación makers de Mallorca (incluye inscripción a la regata)</option>
                         <option value="NO">No</option>
                     </select>
                     <h3 class="section-subheading text-muted">{% include translate.html key='cuota-desc' %}</h3>
